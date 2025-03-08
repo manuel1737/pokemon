@@ -1,0 +1,11 @@
+
+notas.txt
+debug.log
+*.log
+/pruebas/
+/pruebas/*
+/venv/
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
